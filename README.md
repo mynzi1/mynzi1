@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Minji Kwon</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 <br>
-<p align="center">2025 하반기부터 웹 백엔드를 공부하고 있습니다!</p>
+<p align="center">2025 하반기부터 백엔드를 공부하고 있습니다!</p>
 
 
 <br><br>
